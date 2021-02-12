@@ -59,3 +59,11 @@ header a:hover{
     padding: 5px;
 
 }  */
+.projects{
+    margin: 5px;
+    border: black 1px solid;
+    height: 300px;
+    width: 300px;
+}
+
+
