@@ -45,6 +45,7 @@ header li{
 
 header a{
     text-decoration: none;
+    text-transform: capitalize;
 }
 
 header a:hover{
@@ -71,6 +72,5 @@ header a:hover{
     font-size: 22px;
 
 }
-
 
 
