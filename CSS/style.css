@@ -13,7 +13,7 @@ header{
     height: 100px;
     background-color: salmon;
     border: black 1px solid;
-    margin: 15px;
+    margin: 15px 0px 5px 0px;
 }
 
 .header{
@@ -53,13 +53,12 @@ header a:hover{
     font-size: 18px;
 }
 
-/* .logo{ 
+.logo{ 
     float: right;
-    width: 30px;
-    height: 30px;
-    padding: 5px;
+    width: 130px;
+    height: 100px;
 
-}  */
+}  
 .projects{
     margin: 5px;
     border: black 1px solid;
