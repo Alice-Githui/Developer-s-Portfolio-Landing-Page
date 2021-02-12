@@ -65,5 +65,12 @@ header a:hover{
     height: 300px;
     width: 300px;
 }
+.desc:hover{
+    font-size:italic;
+    background-color: crimson;
+    font-size: 22px;
+
+}
+
 
 
