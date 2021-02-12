@@ -1,0 +1,17 @@
+.about{
+    background-color: white;
+    border: black solid 2px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+img{
+    background: solid black 1.5px;
+
+}
+
+.header{
+    background-color: paleturquoise;
+    font-size: medium;
+    font-style: normal;
+}
